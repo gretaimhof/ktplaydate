@@ -70,7 +70,7 @@ public class KTPlaydateApp extends Application {
     /** 
      * Constructs a {@code GalleryApp} object.
      */
-    public GalleryApp() {
+    public KTPlaydateApp() {
         // Initializes the UI components
         this.stage = null;
         this.scene = null;
