@@ -5,7 +5,7 @@ import javafx.application.Application;
 /**
  * Driver for the {@code GalleryApp} class.
  */
-public class GalleryDriver {
+public class KTPlaydateDriver {
 
     /**
      * Main entry-point into the application.
