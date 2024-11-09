@@ -1,5 +1,3 @@
-package cs1302.gallery;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -43,7 +41,7 @@ import com.google.gson.GsonBuilder;
 /**
  * Represents an iTunes Gallery App.
  */
-public class GalleryApp extends Application {
+public class KTPlaydateApp extends Application {
 
     /** HTTP client. */
     public static final HttpClient HTTP_CLIENT = HttpClient.newBuilder()
