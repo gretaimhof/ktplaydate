@@ -1,3 +1,4 @@
+package cs1302.gallery;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
