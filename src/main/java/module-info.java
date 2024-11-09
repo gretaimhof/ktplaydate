@@ -1,7 +1,7 @@
 /**
  * Provides the <strong>cs1302-gallery</strong> application.
  */
-module cs1302.gallery {
+module ktp.ktplayer {
     requires transitive java.logging;
     requires transitive java.net.http;
     requires transitive javafx.controls;

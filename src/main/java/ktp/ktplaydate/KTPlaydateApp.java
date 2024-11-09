@@ -1,4 +1,4 @@
-package cs1302.gallery;
+package ktp.ktplaydate;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
